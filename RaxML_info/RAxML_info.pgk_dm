@@ -1,0 +1,158 @@
+
+
+IMPORTANT WARNING: Sequences gi|256401931|Teth561DRAFT_1955|Teth561DRAFT_1955| and gi|256751247|TeCCSD1DRAFT_0664|TeCCSD1DRAFT_0664| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082864|Z964_00175| and gi|658077059|Z965_01625| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082864|Z964_00175| and gi|658073573|Z966_02045| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082864|Z964_00175| and gi|658076141|Z967_10720| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082864|Z964_00175| and gi|658081980|Z963_05715| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658102738|Z960_02080| and gi|699765746|Z961_01770| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658102738|Z960_02080| and gi|658099441|Z958_09365| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658102738|Z960_02080| and gi|658106135|Z959_05525| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658090660|Y848_05215| and gi|658090690|Z953_04840| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|699754990|Z956_07500| and gi|658094133|Z952_03440| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|699754990|Z956_07500| and gi|658097233|Z954_12000| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|440220976|F502_06082|F502_06082| and gi|662574323|CP6013_1691| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|168211757|AC1_1700|AC1_1700| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|168207662|AC3_1708|AC3_1708| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|168215121|AC5_1612|AC5_1612| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|168218200|AC7_1566|AC7_1566| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|182626604|CJD_1752|CJD_1752| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|169343213|CPC_1535|CPC_1535| and gi|380304924|HA1_08062|HA1_08062| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|255524720|CcarbDRAFT_1672|CcarbDRAFT_1672| and gi|296185682|CLCAR_1113|CLCAR_1113| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380333939|SFB2_084G1|SFB2_084G1| and gi|380335307|SFB4_330G4|SFB4_330G4| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380333939|SFB2_084G1|SFB2_084G1| and gi|380339526|SFB6_060G15|SFB6_060G15| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380333939|SFB2_084G1|SFB2_084G1| and gi|345505705|SFBNYU_015580|SFBNYU_015580| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380333939|SFB2_084G1|SFB2_084G1| and gi|380342729|SFBSU_003G17|SFBSU_003G17| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|751087709|SR42_02125| and gi|749706118|ST13_13260| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|751087709|SR42_02125| and gi|749711652|ST12_13260| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|751087709|SR42_02125| and gi|251779925|CLO_0475|CLO_0475| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|475995840|CBDKU1_25550|CBDKU1_25550| and gi|566224457|Q607_CBUC00182G0197|Q607_CBUC00182G0197| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|475995840|CBDKU1_25550|CBDKU1_25550| and gi|723448072|OA81_16540| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|182419773|CBY_4069|CBY_4069| and gi|237666502|CLP_3575|CLP_3575| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|564868890|X276_04610|X276_04610| and gi|698932007|Cbs_0598| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693307602|KY52_03420| and gi|693311159|KY54_07660| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693307602|KY52_03420| and gi|735000686|OR63_01745| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693307602|KY52_03420| and gi|747253340|RS78_09395| are exactly identical
+
+IMPORTANT WARNING
+Found 33 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /Users/andrea/repositories/phylogenetics_analysis_tools/muscle_output/pgk_out.fasta.reduced
+
+
+This is RAxML version 8.1.24 released by Alexandros Stamatakis on June 29 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 396 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 41.96%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 396
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: BLOSUM62
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -s /Users/andrea/repositories/phylogenetics_analysis_tools/muscle_output/pgk_out.fasta -n pgk_dm -m PROTGAMMABLOSUM62 -T 4 -p 7 -f x 
+
+
+
+Log Likelihood Score after parameter optimization: -13939.088680
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 5778 distances: 0.805597 seconds
+
+Distances written to file: /Users/andrea/repositories/phylogenetics_analysis_tools/RAxML_distances.pgk_dm
