@@ -1,0 +1,140 @@
+
+
+IMPORTANT WARNING: Sequences gi|618851980|CTM_13913| and gi|618850050|CTM_23479| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380331417|SFB1_281G1|SFB1_281G1| and gi|380336388|SFB3_028G5|SFB3_028G5| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380331417|SFB1_281G1|SFB1_281G1| and gi|380339860|SFB6_042G14|SFB6_042G14| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|380331417|SFB1_281G1|SFB1_281G1| and gi|380342139|SFBSU_006G265|SFBSU_006G265| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|749704390|ST13_04190| and gi|749709922|ST12_04190| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|182418406|CBY_3507|CBY_3507| and gi|237666631|CLP_3367|CLP_3367| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|182418406|CBY_3507|CBY_3507| and gi|480688473|HMPREF1084_02912|HMPREF1084_02912| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|743962624|CBB2_2452| and gi|168179369|CBN_2922|CBN_2922| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|700272207|NZ45_09660| and gi|751975675|SD74_02785| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|168204753|AC3_2593|AC3_2593| and gi|380304119|HA1_11839|HA1_11839| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|440221285|F502_03357|F502_03357| and gi|662574850|CP6013_2218| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|618850297|CTM_22233| and gi|618854681|CTM_01360| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693306229|LA33_01640| and gi|693305788|KY52_04140| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693306229|LA33_01640| and gi|693311646|KY55_01985| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693306229|LA33_01640| and gi|693310436|KY54_09430| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693306229|LA33_01640| and gi|734993793|OR63_10175| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|693306229|LA33_01640| and gi|747253673|RS78_07570| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|255525305|CcarbDRAFT_2245|CcarbDRAFT_2245| and gi|296188173|CLCAR_3697|CLCAR_3697| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082311|Z964_09275| and gi|658077883|Z965_07405| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082311|Z964_09275| and gi|658074763|Z966_08190| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082311|Z964_09275| and gi|658071914|Z967_09135| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658082311|Z964_09275| and gi|658079296|Z963_06345| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658084133|Z962_05220| and gi|168187757|CBC_A1618|CBC_A1618| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658103008|Z960_01565| and gi|699762288|Z961_09235| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|699754574|Z956_09115| and gi|658088245|Z952_13330| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|699754574|Z956_09115| and gi|658098886|Z954_09190| are exactly identical
+
+
+IMPORTANT WARNING: Sequences gi|658090845|Y848_04710| and gi|658084622|Z953_02275| are exactly identical
+
+IMPORTANT WARNING
+Found 27 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /Users/andrea/repositories/phylogenetics_analysis_tools/muscle_output/dnaG_out.fasta.reduced
+
+
+This is RAxML version 8.1.24 released by Alexandros Stamatakis on June 29 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 691 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 27.80%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 691
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: BLOSUM62
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -s /Users/andrea/repositories/phylogenetics_analysis_tools/muscle_output/dnaG_out.fasta -n dnaG_dm -m PROTGAMMABLOSUM62 -T 4 -p 7 -f x 
+
+
+
+Log Likelihood Score after parameter optimization: -41189.590506
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 5778 distances: 1.736489 seconds
+
+Distances written to file: /Users/andrea/repositories/phylogenetics_analysis_tools/RAxML_distances.dnaG_dm
